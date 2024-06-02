@@ -25,8 +25,8 @@ export default function About() {
           </p>
           <p>
             Using Terracotta clay, commonly found in the Mediterranean Basin,
-            Sabrina's work reflects her Italian heritage. She contrasts this
-            with blue porcelain elements, symbolizing the influences of her
+            Sabrina&apos;s work reflects her Italian heritage. She contrasts
+            this with blue porcelain elements, symbolizing the influences of her
             travels.
           </p>
           <p>
@@ -35,16 +35,17 @@ export default function About() {
             objects, she presents a duality that encourages reflection on these
             themes bringing attention to the embodiment of traditional heritage
             and the new domestic objects. They represent an invitation to look
-            at domestic objects, that are everyone's lived experience, and
+            at domestic objects, that are everyone&apos;s lived experience, and
             relate to them differently.
           </p>
           <p>
             Since 2014, Sabrina has managed the Slow Clay Centre, a ceramics
-            school in Collingwood. She holds a Bachelor's degree in Cinema and
-            Performing Arts and Art Therapy, which deeply informs her artistic
-            research , art practice and teaching method. She loves teaching and
-            supporting students, creating a safe space for them to develop
-            confidence and to express thoughts and feelings in creative ways.
+            school in Collingwood. She holds a Bachelor&apos;s degree in Cinema
+            and Performing Arts and Art Therapy, which deeply informs her
+            artistic research , art practice and teaching method. She loves
+            teaching and supporting students, creating a safe space for them to
+            develop confidence and to express thoughts and feelings in creative
+            ways.
           </p>
         </div>
       </div>
