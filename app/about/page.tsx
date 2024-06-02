@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function About() {
   return (
@@ -27,25 +28,27 @@ export default function About() {
             Using Terracotta clay, commonly found in the Mediterranean Basin,
             Sabrina&apos;s work reflects her Italian heritage. She contrasts
             this with blue porcelain elements, symbolizing the influences of her
-            travels.
-          </p>
-          <p>
-            Her creations serve (perhaps) as a commentary on contemporary
-            lifestyles. By merging traditional vessels with modern domestic
-            objects, she presents a duality that encourages reflection on these
-            themes bringing attention to the embodiment of traditional heritage
-            and the new domestic objects. They represent an invitation to look
-            at domestic objects, that are everyone&apos;s lived experience, and
-            relate to them differently.
+            travels. By merging traditional vessels with modern domestic
+            objects, she presents a duality that encourages reflection on
+            cultural progress.
           </p>
           <p>
             Since 2014, Sabrina has managed the Slow Clay Centre, a ceramics
             school in Collingwood. She holds a Bachelor&apos;s degree in Cinema
             and Performing Arts and Art Therapy, which deeply informs her
-            artistic research , art practice and teaching method. She loves
+            artistic research, art practice and teaching method. She loves
             teaching and supporting students, creating a safe space for them to
             develop confidence and to express thoughts and feelings in creative
             ways.
+          </p>
+          <p>
+            <Link
+              href="https://www.instagram.com/sabrina.talarico.ceramics/"
+              target="_blank"
+              className="underline"
+            >
+              Instagram
+            </Link>
           </p>
         </div>
       </div>
